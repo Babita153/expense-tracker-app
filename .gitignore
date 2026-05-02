@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# React Native build files
+android/build/
+android/app/build/
+android/.cxx/
+
+ios/build/
+
+# Bundles
+.bundle/
+
+# Logs
+*.log
+
+# Env
+.env

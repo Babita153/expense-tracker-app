@@ -1,0 +1,10 @@
+# ninja log v5
+7	93	0	C:/Users/ASUS/OneDrive/Desktop/DemoProject/android/app/.cxx/Debug/5v2g3f1i/arm64-v8a/CMakeFiles/cmake.verify_globs	a0c739f036cfb3b
+1	30358	7747967841807333	CMakeFiles/appmodules.dir/C_/Users/ASUS/OneDrive/Desktop/DemoProject/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	d4dedd8c57fce2a4
+10	31781	7747967856010935	CMakeFiles/appmodules.dir/OnLoad.cpp.o	3513a60885f22799
+31782	32318	7747967861481207	C:/Users/ASUS/OneDrive/Desktop/DemoProject/android/app/build/intermediates/cxx/Debug/5v2g3f1i/obj/arm64-v8a/libappmodules.so	723f63cb3f0eec02
+35	119	0	C:/Users/ASUS/OneDrive/Desktop/DemoProject/android/app/.cxx/Debug/5v2g3f1i/arm64-v8a/CMakeFiles/cmake.verify_globs	a0c739f036cfb3b
+57	264	0	C:/Users/ASUS/OneDrive/Desktop/DemoProject/android/app/.cxx/Debug/5v2g3f1i/arm64-v8a/CMakeFiles/cmake.verify_globs	a0c739f036cfb3b
+90	24638	7749093533132333	CMakeFiles/appmodules.dir/C_/Users/ASUS/OneDrive/Desktop/DemoProject/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	d4dedd8c57fce2a4
+137	25879	7749093545646759	CMakeFiles/appmodules.dir/OnLoad.cpp.o	3513a60885f22799
+25880	26487	7749093552124499	C:/Users/ASUS/OneDrive/Desktop/DemoProject/android/app/build/intermediates/cxx/Debug/5v2g3f1i/obj/arm64-v8a/libappmodules.so	723f63cb3f0eec02
