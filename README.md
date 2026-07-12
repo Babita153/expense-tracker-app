@@ -4,54 +4,37 @@ A modern **React Native Expense Tracker** application that helps users manage da
 
 ---
 
-# 📱 Screenshots
-
-## 🚀 Onboarding Screen
+## 📱 Screenshots
 
 <p align="center">
-  <img src="./screenshots/onboarding.png" width="250"/>
+  <b>Onboarding</b><br>
+  <img src="screenshots/onboarding.png" width="250"/>
 </p>
-
----
-
-## 🔐 Login Screen
 
 <p align="center">
-  <img src="./screenshots/login.png" width="250"/>
+  <b>Login</b><br>
+  <img src="screenshots/login.png" width="250"/>
 </p>
-
----
-
-## 📝 Sign Up Screen
 
 <p align="center">
-  <img src="./screenshots/signup.png" width="250"/>
+  <b>Sign Up</b><br>
+  <img src="screenshots/signup.png" width="250"/>
 </p>
-
----
-
-## 🏠 Home Screen
 
 <p align="center">
-  <img src="./screenshots/home.png" width="250"/>
+  <b>Home</b><br>
+  <img src="screenshots/home.png" width="250"/>
 </p>
-
----
-
-## ➕ Add Expense
 
 <p align="center">
-  <img src="./screenshots/addexpense.png" width="250"/>
+  <b>Add Expense</b><br>
+  <img src="screenshots/addexpense.png" width="250"/>
 </p>
-
----
-
-## 📋 Expense Details Modal
 
 <p align="center">
-  <img src="./screenshots/modal.png" width="250"/>
+  <b>Expense Modal</b><br>
+  <img src="screenshots/modal.png" width="250"/>
 </p>
-
 ---
 
 # ✨ Features
